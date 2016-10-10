@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!--雷达扫描View-->
+  <attr name="rippleColor" format="color"/>
+  <attr name="rippleNum" format="integer"/>
+  <declare-styleable name="RadarView">
+    <attr name="rippleColor"/>
+    <attr name="rippleNum"/>
+  </declare-styleable>
+</resources>

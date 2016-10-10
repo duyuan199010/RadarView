@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/duyuan797/Workspace/Applications/RippleViewTest/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/Users/duyuan797/Workspace/Applications/RippleViewTest/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.0.0_a726c54197658c2cd99f6a8ecdea78eec9b4159d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/duyuan797/Workspace/Applications/RippleViewTest/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/duyuan797/Workspace/Applications/RippleViewTest/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_97a54a70c121133cee93a87131766d1279539d25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/duyuan797/Workspace/Applications/RippleViewTest/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/Users/duyuan797/Workspace/Applications/RippleViewTest/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.0.0_0df217dea63ccf1f254501038d18768386f2bf85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/duyuan797/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/duyuan797/Workspace/Applications/RippleViewTest/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_520885891882362a17dcbe1bbac4da3a86168de5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/duyuan797/Workspace/Applications/RippleViewTest/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/duyuan797/Workspace/Applications/RippleViewTest/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_d064cbd1b747c7653f5ca5e1a6d235f8c80afc77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/duyuan797/Workspace/Applications/RippleViewTest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/Users/duyuan797/Workspace/Applications/RippleViewTest/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.0.0_fb6daeca20b464da4583430060f57f448317d36c.jar" />
+    </item>
+
+</items>
