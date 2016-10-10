@@ -201,10 +201,8 @@ public class RadarView extends TextView {
             mPaint.setAlpha(alpha);
             canvas.drawCircle(mCenterX, mCenterY, mRadius * progress / 100, mPaint);
         }
-        Paint paint = new Paint();
-        paint.setAntiAlias(true);
-        paint.setStyle(Paint.Style.FILL);
 
+        mPaint.setAlpha(255);
         if (progress == 99) {
             initProgress = progress;
         }
@@ -215,7 +213,7 @@ public class RadarView extends TextView {
             canvas.save();
             canvas.rotate(rotateDegree++, mCenterX, mCenterY);
             canvas.drawBitmap(mScanBitmap, mCenterX - mScanBitmap.getWidth() / 2,
-                    mCenterY - mScanBitmap.getHeight() / 2, paint);
+                    mCenterY - mScanBitmap.getHeight() / 2, mPaint);
             canvas.restore();
         }
         if (rotateDegree == 360) {
@@ -228,7 +226,7 @@ public class RadarView extends TextView {
         Bitmap centerBitmap =
                 BitmapFactory.decodeResource(getResources(), R.mipmap.ic_radar_center);
         canvas.drawBitmap(centerBitmap, mCenterX - centerBitmap.getWidth() / 2,
-                mCenterY - centerBitmap.getHeight() / 2, paint);
+                mCenterY - centerBitmap.getHeight() / 2, mPaint);
 
         super.onDraw(canvas);
     }
@@ -249,3 +247,4 @@ public class RadarView extends TextView {
         }
     };
 }
+
