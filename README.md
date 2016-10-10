@@ -1,7 +1,7 @@
 # RadarView
 A custom radar view for Android
 
-<img src="screenshots/effect1.gif" width="640" />
+<img src="screenshots/effect1.gif" width="320" />
 
 
 #Usage
