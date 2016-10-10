@@ -7,7 +7,6 @@ A custom radar view for Android
       android:layout_width="wrap_content"
       android:layout_height="wrap_content"
       android:layout_centerHorizontal="true"
-      android:layout_marginTop="7dp"
       app:rippleColor="#ffffff"
       app:rippleNum="4"
       />
