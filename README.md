@@ -1,6 +1,9 @@
 # RadarView
 A custom radar view for Android
 
+<img src="screenshots/effect1.gif" width="640" />
+
+
 #Usage
     <dy.com.radarview.RadarView
       android:id="@+id/view_radar_scan"
